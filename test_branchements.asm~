@@ -1,0 +1,4 @@
+beq $t0, $t1 ,1
+bne $t0, $t1 ,1
+blez $t0, $t1 ,1
+bgtz $t0, $t1 ,1
