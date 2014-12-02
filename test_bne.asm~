@@ -1,9 +1,0 @@
-addi $t0, $zero, 5
-addi $t1, $zero, 1
-
-sub $t0, $t0, $t1
-bne $t0, $zero, 0xfffffffe
-addi $t3, $zero, 42
-
-
-
