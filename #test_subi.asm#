@@ -1,2 +1,0 @@
-addi $t0, $zero, 10
-subi $t0, $t0, 5
