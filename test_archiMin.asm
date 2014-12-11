@@ -21,7 +21,7 @@
 
 # initialisation des variables globales
 lui $a0, 0x1001
-addi $a3,$zero,0x3
+addi $a3,$zero,0x20
 #
 
 #placement de la valeur en mémoire
@@ -31,7 +31,7 @@ sw $t0, 0($a0)
 
 #chargement en mémoire de la valeur
 lw $v0,0($a0)
-add $t0, $zero,$zero #compteur de boucle 
+addi $t0, $zero,0x20 #compteur de boucle 
 add $t1, $zero,$zero #valeur du lsb
 add $v1,$zero,$zero # compteur de 1
 #
@@ -43,8 +43,8 @@ beq $t1, $zero,finSiUn
 addi $v1, $v1, 1
 finSiUn:
 srl $v0, $v0, 1
-addi $t0,$t0,1
-bne $t0,$a3 ,tantQue
+addi $t0,$t0,-1
+bgtz $t0 ,tantQue
 
 
 
