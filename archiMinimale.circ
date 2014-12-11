@@ -83,6 +83,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1430,60)" to="(1430,1210)"/>
     <wire from="(2200,440)" to="(2300,440)"/>
     <wire from="(2280,120)" to="(2280,130)"/>
+    <wire from="(320,530)" to="(320,940)"/>
     <wire from="(220,1050)" to="(240,1050)"/>
     <wire from="(340,940)" to="(740,940)"/>
     <wire from="(1570,630)" to="(1570,660)"/>
@@ -111,7 +112,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(2610,370)" to="(2610,380)"/>
     <wire from="(220,1130)" to="(220,1150)"/>
     <wire from="(560,1060)" to="(560,1100)"/>
-    <wire from="(320,530)" to="(320,950)"/>
     <wire from="(2200,450)" to="(2290,450)"/>
     <wire from="(1510,510)" to="(1560,510)"/>
     <wire from="(1720,240)" to="(1770,240)"/>
@@ -124,7 +124,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(820,1080)" to="(850,1080)"/>
     <wire from="(2610,620)" to="(2610,1000)"/>
     <wire from="(2120,250)" to="(2130,250)"/>
-    <wire from="(1700,190)" to="(1700,220)"/>
     <wire from="(1570,220)" to="(1630,220)"/>
     <wire from="(840,260)" to="(850,260)"/>
     <wire from="(2170,950)" to="(2220,950)"/>
@@ -203,18 +202,18 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1650,930)" to="(1800,930)"/>
     <wire from="(440,860)" to="(450,860)"/>
     <wire from="(1040,410)" to="(1070,410)"/>
+    <wire from="(0,940)" to="(320,940)"/>
     <wire from="(190,1130)" to="(200,1130)"/>
-    <wire from="(1700,220)" to="(1770,220)"/>
     <wire from="(680,1100)" to="(710,1100)"/>
     <wire from="(1430,60)" to="(1940,60)"/>
     <wire from="(70,100)" to="(100,100)"/>
     <wire from="(60,70)" to="(70,70)"/>
-    <wire from="(310,940)" to="(310,950)"/>
     <wire from="(2610,390)" to="(2610,430)"/>
     <wire from="(2080,230)" to="(2090,230)"/>
     <wire from="(2470,420)" to="(2490,420)"/>
     <wire from="(2210,460)" to="(2210,510)"/>
     <wire from="(970,1220)" to="(1090,1220)"/>
+    <wire from="(1820,190)" to="(1820,230)"/>
     <wire from="(430,840)" to="(450,840)"/>
     <wire from="(370,1190)" to="(490,1190)"/>
     <wire from="(420,700)" to="(450,700)"/>
@@ -230,8 +229,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1150,430)" to="(1410,430)"/>
     <wire from="(2140,100)" to="(2140,110)"/>
     <wire from="(90,440)" to="(160,440)"/>
+    <wire from="(1660,220)" to="(1770,220)"/>
     <wire from="(220,1150)" to="(370,1150)"/>
     <wire from="(510,1130)" to="(520,1130)"/>
+    <wire from="(1800,230)" to="(1820,230)"/>
     <wire from="(1090,1220)" to="(1090,1240)"/>
     <wire from="(1490,880)" to="(1490,900)"/>
     <wire from="(1610,150)" to="(1620,150)"/>
@@ -341,7 +342,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(460,710)" to="(500,710)"/>
     <wire from="(440,610)" to="(560,610)"/>
     <wire from="(840,230)" to="(840,260)"/>
-    <wire from="(0,940)" to="(310,940)"/>
     <wire from="(970,1240)" to="(1090,1240)"/>
     <wire from="(470,1100)" to="(470,1120)"/>
     <wire from="(2280,390)" to="(2280,420)"/>
@@ -354,9 +354,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1490,230)" to="(1540,230)"/>
     <wire from="(800,210)" to="(820,210)"/>
     <wire from="(870,320)" to="(1330,320)"/>
+    <wire from="(1610,190)" to="(1820,190)"/>
     <wire from="(1540,570)" to="(1570,570)"/>
     <wire from="(1550,240)" to="(1550,320)"/>
-    <wire from="(310,950)" to="(320,950)"/>
     <wire from="(470,1100)" to="(560,1100)"/>
     <wire from="(1090,960)" to="(1090,1220)"/>
     <wire from="(1070,390)" to="(1080,390)"/>
@@ -394,14 +394,13 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1210,240)" to="(1210,260)"/>
     <wire from="(580,680)" to="(580,730)"/>
     <wire from="(1480,410)" to="(1590,410)"/>
-    <wire from="(1660,220)" to="(1700,220)"/>
     <wire from="(740,920)" to="(880,920)"/>
     <wire from="(1540,660)" to="(1570,660)"/>
     <wire from="(1720,870)" to="(1720,890)"/>
     <wire from="(1480,400)" to="(1490,400)"/>
     <wire from="(2100,240)" to="(2100,250)"/>
-    <wire from="(1610,190)" to="(1700,190)"/>
     <wire from="(60,110)" to="(70,110)"/>
+    <wire from="(1820,230)" to="(1840,230)"/>
     <wire from="(350,1010)" to="(370,1010)"/>
     <wire from="(2420,920)" to="(2450,920)"/>
     <wire from="(2170,470)" to="(2180,470)"/>
@@ -426,7 +425,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1210,260)" to="(1330,260)"/>
     <wire from="(1150,430)" to="(1150,470)"/>
     <wire from="(680,680)" to="(680,710)"/>
-    <wire from="(1800,230)" to="(1840,230)"/>
     <comp lib="0" loc="(2100,130)" name="Bit Extender">
       <a name="in_width" val="5"/>
       <a name="out_width" val="32"/>
@@ -1254,74 +1252,18 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="adr0"/>
     </comp>
     <comp lib="7" loc="(680,160)" name="MIPSProgramROM">
-      <a name="contents"># programme de test de l'achitecture minimale:
-# test du chargement/ rangement
-# test instruction logique
-# test instruction de branchement
-# test instruction arithmetique
+      <a name="contents">
 
-## par bog le 6/12/14
-#                                 NOMBRE DE 1
-# Description du programme:
-#	ce programme charge une valeur binaire en mémoire
-#	puis compte le nombre de 1 puis l'enregistre en mémoire
-#
-##
+addi $t1, $zero, 1
+boucle:
 
-#variable:
-# 0($a0) -&gt; adresse de la valeur
-# 4($a0) -&gt; adresse du nombre de 1
-# $v0 -&gt; valeur 
-# $v1 -&gt; nombre de 1
-# $a3 -&gt; taille d'un entier 32 bit
+addi $t0, $zero,0
+lui $t0, 0xFFFF
 
-# initialisation des variables globales
-lui $a0, 0x1001
-addi $a3,$zero,0x20
-#
+lw $t2,4($t0) # $t2 &lt;-- Mem32[0xFFFF0000]
+sw $t2,0xC($t0) #Mem32[$t0 + 0xC = 0XFFFF000C] &lt;-- $t2
 
-#placement de la valeur en mémoire
-addi $t0,$zero,42
-sw $t0, 0($a0)
-#
-
-#chargement en mémoire de la valeur
-lw $v0,0($a0)
-addi $t0, $zero,0x20 #compteur de boucle 
-add $t1, $zero,$zero #valeur du lsb
-add $v1,$zero,$zero # compteur de 1
-#
-
-#calcul du nombre de 1
-tantQue:
-andi $t1,$v0,1
-beq $t1, $zero,finSiUn
-addi $v1, $v1, 1
-finSiUn:
-srl $v0, $v0, 1
-addi $t0,$t0,-1
-bgtz $t0 ,tantQue
-
-
-
-#rangement du nombre de 1
-sw $v1,4($a0)
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-	
+bgtz $t1, boucle
 </a>
     </comp>
     <comp lib="6" loc="(231,513)" name="Text">
@@ -1498,8 +1440,8 @@ xxxxxx001110,000010#xori
 100011,0000100#lw
 101011,0110000#sw
 000100,0011000#beq
-000110,0011000#blez
-000111,0011000#bgtz
+000110,0011001#blez
+000111,0011001#bgtz
 000000,1000010#sll/srl</a>
     </comp>
     <comp lib="0" loc="(1840,890)" name="Tunnel">
